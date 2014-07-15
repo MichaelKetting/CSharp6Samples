@@ -1,0 +1,4 @@
+**/obj/**
+**/bin/**
+*.suo
+CSharp6Samples.sln.ide
